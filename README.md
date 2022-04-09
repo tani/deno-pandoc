@@ -5,7 +5,7 @@ Pandoc Flavored Markdown for Deno
 ## Usage
 
 ```typescript
-import pandoc from "https://pax.deno.dev/tani/deno-pandoc/out/mod.js"
+import pandoc from "https://cdn.jsdelivr.net/gh/tani/deno-pandoc/out/mod.js"
 console.log(pandoc(`Hello, world!`)) // <p>Hello, world!</p>
 ```
 
