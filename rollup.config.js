@@ -8,5 +8,5 @@ export default {
     format: 'esm',
     file: './out/mod.js'
   },
-  plugins: [commonjs(), nodeResolve(), json(), deno()]
+  plugins: [commonjs(), nodeResolve({preferBuiltins: false}), json(), deno()]
 }
