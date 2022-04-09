@@ -1,0 +1,920 @@
+├─ @rollup/plugin-commonjs@21.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rollup/plugins
+│  ├─ publisher: Rich Harris
+│  ├─ email: richard.a.harris@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@rollup/plugin-commonjs
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@rollup/plugin-commonjs/LICENSE
+├─ @rollup/plugin-json@4.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rollup/plugins
+│  ├─ publisher: rollup
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@rollup/plugin-json
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@rollup/plugin-json/LICENSE
+├─ @rollup/plugin-node-resolve@13.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rollup/plugins
+│  ├─ publisher: Rich Harris
+│  ├─ email: richard.a.harris@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@rollup/plugin-node-resolve
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@rollup/plugin-node-resolve/LICENSE
+├─ @rollup/pluginutils@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rollup/plugins
+│  ├─ publisher: Rich Harris
+│  ├─ email: richard.a.harris@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@rollup/pluginutils
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@rollup/pluginutils/LICENSE
+├─ @types/estree@0.0.39
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@types/estree
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@types/estree/LICENSE
+├─ @types/linkify-it@3.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@types/linkify-it
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@types/linkify-it/LICENSE
+├─ @types/markdown-it@12.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@types/markdown-it
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@types/markdown-it/LICENSE
+├─ @types/mdurl@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@types/mdurl
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@types/mdurl/LICENSE
+├─ @types/node@17.0.23
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@types/node
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@types/node/LICENSE
+├─ @types/resolve@1.17.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@types/resolve
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@types/resolve/LICENSE
+├─ abbrev@1.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/abbrev-js
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/abbrev
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/abbrev/LICENSE
+├─ ansi-colors@4.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/doowb/ansi-colors
+│  ├─ publisher: Brian Woodward
+│  ├─ url: https://github.com/doowb
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/ansi-colors
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/ansi-colors/LICENSE
+├─ ansi-styles@3.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-styles
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/ansi-styles
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/ansi-styles/license
+├─ argparse@2.0.1
+│  ├─ licenses: Python-2.0
+│  ├─ repository: https://github.com/nodeca/argparse
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/argparse
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/argparse/LICENSE
+├─ array-find-index@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/array-find-index
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/array-find-index
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/array-find-index/license
+├─ asap@2.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kriskowal/asap
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/asap
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/asap/LICENSE.md
+├─ balanced-match@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/balanced-match
+│  ├─ publisher: Julian Gruber
+│  ├─ email: mail@juliangruber.com
+│  ├─ url: http://juliangruber.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/balanced-match
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/balanced-match/LICENSE.md
+├─ boolbase@1.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/fb55/boolbase
+│  ├─ publisher: Felix Boehm
+│  ├─ email: me@feedic.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/boolbase
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/boolbase/README.md
+├─ brace-expansion@1.1.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/brace-expansion
+│  ├─ publisher: Julian Gruber
+│  ├─ email: mail@juliangruber.com
+│  ├─ url: http://juliangruber.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/brace-expansion
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/brace-expansion/LICENSE
+├─ builtin-modules@3.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/builtin-modules
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/builtin-modules
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/builtin-modules/license
+├─ chalk@2.4.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/chalk
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/chalk
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/chalk/license
+├─ cheerio-select@1.6.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/cheeriojs/cheerio-select
+│  ├─ publisher: Felix Boehm
+│  ├─ email: me@feedic.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/cheerio-select
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/cheerio-select/LICENSE
+├─ cheerio@1.0.0-rc.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/cheeriojs/cheerio
+│  ├─ publisher: Matt Mueller
+│  ├─ email: mattmuelle@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/cheerio
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/cheerio/LICENSE
+├─ color-convert@1.9.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Qix-/color-convert
+│  ├─ publisher: Heather Arthur
+│  ├─ email: fayearthur@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/color-convert
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/color-convert/LICENSE
+├─ color-name@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dfcreative/color-name
+│  ├─ publisher: DY
+│  ├─ email: dfcreative@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/color-name
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/color-name/LICENSE
+├─ commander@6.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tj/commander.js
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/commander
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/commander/LICENSE
+├─ commander@9.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tj/commander.js
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/speech-rule-engine/node_modules/commander
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/speech-rule-engine/node_modules/commander/LICENSE
+├─ commondir@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-commondir
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/commondir
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/commondir/LICENSE
+├─ concat-map@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-concat-map
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/concat-map
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/concat-map/LICENSE
+├─ css-select@4.3.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/fb55/css-select
+│  ├─ publisher: Felix Boehm
+│  ├─ email: me@feedic.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/css-select
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/css-select/LICENSE
+├─ css-what@6.1.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/fb55/css-what
+│  ├─ publisher: Felix Böhm
+│  ├─ email: me@feedic.com
+│  ├─ url: http://feedic.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/css-what
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/css-what/LICENSE
+├─ debug@3.2.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/debug
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/debug
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/debug/LICENSE
+├─ debuglog@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sam-github/node-debuglog
+│  ├─ publisher: Sam Roberts
+│  ├─ email: sam@strongloop.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/debuglog
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/debuglog/LICENSE
+├─ deepmerge@4.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TehShrike/deepmerge
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/deepmerge
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/deepmerge/license.txt
+├─ dezalgo@1.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/dezalgo
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/dezalgo
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/dezalgo/LICENSE
+├─ dom-serializer@1.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/cheeriojs/dom-renderer
+│  ├─ publisher: Felix Boehm
+│  ├─ email: me@feedic.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/dom-serializer
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/dom-serializer/LICENSE
+├─ domelementtype@2.3.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/fb55/domelementtype
+│  ├─ publisher: Felix Boehm
+│  ├─ email: me@feedic.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/domelementtype
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/domelementtype/LICENSE
+├─ domhandler@3.3.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/fb55/domhandler
+│  ├─ publisher: Felix Boehm
+│  ├─ email: me@feedic.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/web-resource-inliner/node_modules/domhandler
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/web-resource-inliner/node_modules/domhandler/LICENSE
+├─ domhandler@4.3.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/fb55/domhandler
+│  ├─ publisher: Felix Boehm
+│  ├─ email: me@feedic.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/domhandler
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/domhandler/LICENSE
+├─ domutils@2.8.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/fb55/domutils
+│  ├─ publisher: Felix Boehm
+│  ├─ email: me@feedic.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/domutils
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/domutils/LICENSE
+├─ entities@2.1.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/fb55/entities
+│  ├─ publisher: Felix Boehm
+│  ├─ email: me@feedic.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/entities
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/entities/LICENSE
+├─ escape-goat@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/escape-goat
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/escape-goat
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/escape-goat/license
+├─ escape-string-regexp@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/escape-string-regexp
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/escape-string-regexp
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/escape-string-regexp/license
+├─ esm@3.2.25
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/standard-things/esm
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/esm
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/esm/LICENSE
+├─ estree-walker@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Rich-Harris/estree-walker
+│  ├─ publisher: Rich Harris
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@rollup/pluginutils/node_modules/estree-walker
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/@rollup/pluginutils/node_modules/estree-walker/README.md
+├─ estree-walker@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Rich-Harris/estree-walker
+│  ├─ publisher: Rich Harris
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/estree-walker
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/estree-walker/LICENSE
+├─ fs.realpath@1.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/fs.realpath
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/fs.realpath
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/fs.realpath/LICENSE
+├─ fsevents@2.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/fsevents/fsevents
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/fsevents
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/fsevents/LICENSE
+├─ function-bind@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/function-bind
+│  ├─ publisher: Raynos
+│  ├─ email: raynos2@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/function-bind
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/function-bind/LICENSE
+├─ glob@7.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/glob
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/glob/LICENSE
+├─ graceful-fs@4.2.10
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-graceful-fs
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/graceful-fs
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/graceful-fs/LICENSE
+├─ has-flag@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/has-flag
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/has-flag
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/has-flag/license
+├─ has@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tarruda/has
+│  ├─ publisher: Thiago de Arruda
+│  ├─ email: tpadilha84@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/has
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/has/LICENSE-MIT
+├─ hosted-git-info@2.8.9
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/hosted-git-info
+│  ├─ publisher: Rebecca Turner
+│  ├─ email: me@re-becca.org
+│  ├─ url: http://re-becca.org
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/hosted-git-info
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/hosted-git-info/LICENSE
+├─ htmlparser2@4.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/fb55/htmlparser2
+│  ├─ publisher: Felix Boehm
+│  ├─ email: me@feedic.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/web-resource-inliner/node_modules/htmlparser2
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/web-resource-inliner/node_modules/htmlparser2/LICENSE
+├─ htmlparser2@6.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/fb55/htmlparser2
+│  ├─ publisher: Felix Boehm
+│  ├─ email: me@feedic.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/htmlparser2
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/htmlparser2/LICENSE
+├─ inflight@1.0.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/inflight
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/inflight
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/inflight/LICENSE
+├─ inherits@2.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/inherits
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/inherits
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/inherits/LICENSE
+├─ is-core-module@2.8.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-core-module
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/is-core-module
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/is-core-module/LICENSE
+├─ is-module@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/is-module
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/is-module
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/is-module/README.md
+├─ is-reference@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Rich-Harris/is-reference
+│  ├─ publisher: Rich Harris
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/is-reference
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/is-reference/README.md
+├─ json-parse-even-better-errors@2.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/npm/json-parse-even-better-errors
+│  ├─ publisher: Kat Marchán
+│  ├─ email: kzm@zkat.tech
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/json-parse-even-better-errors
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/json-parse-even-better-errors/LICENSE.md
+├─ juice@8.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Automattic/juice
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/juice
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/juice/LICENSE.md
+├─ license-checker@25.0.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/davglass/license-checker
+│  ├─ publisher: Dav Glass
+│  ├─ email: davglass@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/license-checker
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/license-checker/LICENSE
+├─ linkify-it@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/markdown-it/linkify-it
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/linkify-it
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/linkify-it/LICENSE
+├─ magic-string@0.25.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rich-harris/magic-string
+│  ├─ publisher: Rich Harris
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/magic-string
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/magic-string/LICENSE
+├─ markdown-it-attrs@4.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/arve0/markdown-it-attrs
+│  ├─ publisher: Arve Seljebu
+│  ├─ email: arve.seljebu@gmail.com
+│  ├─ url: https://arve0.github.io
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-attrs
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-attrs/LICENSE
+├─ markdown-it-bracketed-spans@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mb21/markdown-it-bracketed-spans
+│  ├─ publisher: Mauro Bieg
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-bracketed-spans
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-bracketed-spans/LICENSE
+├─ markdown-it-container@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/markdown-it/markdown-it-container
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-container
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-container/LICENSE
+├─ markdown-it-deflist@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/markdown-it/markdown-it-deflist
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-deflist
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-deflist/LICENSE
+├─ markdown-it-footnote@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/markdown-it/markdown-it-footnote
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-footnote
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-footnote/LICENSE
+├─ markdown-it-gridtables@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/basverweij/markdown-it-gridtables
+│  ├─ publisher: Bas Verweij
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-gridtables
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-gridtables/LICENSE
+├─ markdown-it-implicit-figures@0.10.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/arve0/markdown-it-implicit-figures
+│  ├─ publisher: Arve Seljebu
+│  ├─ email: arve.seljebu@gmail.com
+│  ├─ url: arve0.github.io
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-implicit-figures
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-implicit-figures/LICENSE
+├─ markdown-it-mathjax3@4.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nzt/markdown-it-mathjax3
+│  ├─ publisher: TANIGUCHI Masaya
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-mathjax3
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-mathjax3/LICENSE
+├─ markdown-it-pfm@0.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: git@github.com/tani/markdown-it-pfm
+│  ├─ publisher: TANIGUCHI Masaya
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-pfm
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-pfm/README.md
+├─ markdown-it-sub@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/markdown-it/markdown-it-sub
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-sub
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-sub/LICENSE
+├─ markdown-it-sup@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/markdown-it/markdown-it-sup
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-sup
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-sup/LICENSE
+├─ markdown-it-task-lists@2.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/revin/markdown-it-task-lists
+│  ├─ publisher: Revin Guillen
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-task-lists
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it-task-lists/LICENSE
+├─ markdown-it@12.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/markdown-it/markdown-it
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/markdown-it/LICENSE
+├─ mathjax-full@3.2.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mathjax/Mathjax-src
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/mathjax-full
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/mathjax-full/LICENSE
+├─ mdurl@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/markdown-it/mdurl
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/mdurl
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/mdurl/LICENSE
+├─ mensch@0.3.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brettstimmerman/mensch
+│  ├─ publisher: Brett Stimmerman
+│  ├─ email: brettstimmerman@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/mensch
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/mensch/LICENSE
+├─ mhchemparser@4.1.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mhchem/mhchemParser
+│  ├─ publisher: Martin Hensel
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/mhchemparser
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/mhchemparser/LICENSE.txt
+├─ mime@2.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/broofa/mime
+│  ├─ publisher: Robert Kieffer
+│  ├─ email: robert@broofa.com
+│  ├─ url: http://github.com/broofa
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/mime
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/mime/LICENSE
+├─ minimatch@3.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minimatch
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/minimatch
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/minimatch/LICENSE
+├─ minimist@1.2.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/minimist
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/minimist
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/minimist/LICENSE
+├─ mj-context-menu@0.6.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/zorkow/context-menu
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/mj-context-menu
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/mj-context-menu/README.md
+├─ mkdirp@0.5.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-mkdirp
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/mkdirp
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/mkdirp/LICENSE
+├─ ms@2.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/ms
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/ms
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/ms/license.md
+├─ node-fetch@2.6.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bitinn/node-fetch
+│  ├─ publisher: David Frank
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/node-fetch
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/node-fetch/LICENSE.md
+├─ nopt@4.0.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/nopt
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/nopt
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/nopt/LICENSE
+├─ normalize-package-data@2.5.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/npm/normalize-package-data
+│  ├─ publisher: Meryn Stol
+│  ├─ email: merynstol@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/normalize-package-data
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/normalize-package-data/LICENSE
+├─ npm-normalize-package-bin@1.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/npm-normalize-package-bin
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: https://izs.me
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/npm-normalize-package-bin
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/npm-normalize-package-bin/LICENSE
+├─ nth-check@2.0.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/fb55/nth-check
+│  ├─ publisher: Felix Boehm
+│  ├─ email: me@feedic.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/nth-check
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/nth-check/LICENSE
+├─ once@1.4.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/once
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/once
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/once/LICENSE
+├─ os-homedir@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/os-homedir
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/os-homedir
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/os-homedir/license
+├─ os-tmpdir@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/os-tmpdir
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/os-tmpdir
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/os-tmpdir/license
+├─ osenv@0.1.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/osenv
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/osenv
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/osenv/LICENSE
+├─ parse5-htmlparser2-tree-adapter@6.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inikulin/parse5
+│  ├─ publisher: Ivan Nikulin
+│  ├─ email: ifaaan@gmail.com
+│  ├─ url: https://github.com/inikulin
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/parse5-htmlparser2-tree-adapter
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/parse5-htmlparser2-tree-adapter/LICENSE
+├─ parse5@6.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inikulin/parse5
+│  ├─ publisher: Ivan Nikulin
+│  ├─ email: ifaaan@gmail.com
+│  ├─ url: https://github.com/inikulin
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/parse5
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/parse5/LICENSE
+├─ path-is-absolute@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-is-absolute
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/path-is-absolute
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/path-is-absolute/license
+├─ path-parse@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jbgutierrez/path-parse
+│  ├─ publisher: Javier Blanco
+│  ├─ email: http://jbgutierrez.info
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/path-parse
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/path-parse/LICENSE
+├─ picomatch@2.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/picomatch
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/picomatch
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/picomatch/LICENSE
+├─ read-installed@4.0.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/read-installed
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/read-installed
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/read-installed/LICENSE
+├─ read-package-json@2.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/read-package-json
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/read-package-json
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/read-package-json/LICENSE
+├─ readdir-scoped-modules@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/readdir-scoped-modules
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/readdir-scoped-modules
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/readdir-scoped-modules/LICENSE
+├─ resolve@1.22.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserify/resolve
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/resolve
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/resolve/LICENSE
+├─ rollup-plugin-deno@1.0.1
+│  ├─ licenses: MIT
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/rollup-plugin-deno
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/rollup-plugin-deno/LICENSE
+├─ rollup@2.70.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rollup/rollup
+│  ├─ publisher: Rich Harris
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/rollup
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/rollup/LICENSE.md
+├─ semver@5.7.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/semver
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/semver/LICENSE
+├─ slick@1.12.2
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/kamicane/slick
+│  ├─ publisher: Valerio Proietti
+│  ├─ email: @kamicane
+│  ├─ url: http://mad4milk.net
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/slick
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/slick/README.md
+├─ slide@1.1.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/slide-flow-control
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/slide
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/slide/LICENSE
+├─ sourcemap-codec@1.4.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Rich-Harris/sourcemap-codec
+│  ├─ publisher: Rich Harris
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/sourcemap-codec
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/sourcemap-codec/LICENSE
+├─ spdx-compare@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kemitchell/spdx-compare.js
+│  ├─ publisher: Kyle E. Mitchell
+│  ├─ email: kyle@kemitchell.com
+│  ├─ url: https://kemitchell.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/spdx-compare
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/spdx-compare/LICENSE.md
+├─ spdx-correct@3.1.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/jslicense/spdx-correct.js
+│  ├─ publisher: Kyle E. Mitchell
+│  ├─ email: kyle@kemitchell.com
+│  ├─ url: https://kemitchell.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/spdx-correct
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/spdx-correct/LICENSE
+├─ spdx-exceptions@2.3.0
+│  ├─ licenses: CC-BY-3.0
+│  ├─ repository: https://github.com/kemitchell/spdx-exceptions.json
+│  ├─ publisher: The Linux Foundation
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/spdx-exceptions
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/spdx-exceptions/README.md
+├─ spdx-expression-parse@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jslicense/spdx-expression-parse.js
+│  ├─ publisher: Kyle E. Mitchell
+│  ├─ email: kyle@kemitchell.com
+│  ├─ url: https://kemitchell.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/spdx-expression-parse
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/spdx-expression-parse/LICENSE
+├─ spdx-license-ids@3.0.11
+│  ├─ licenses: CC0-1.0
+│  ├─ repository: https://github.com/jslicense/spdx-license-ids
+│  ├─ publisher: Shinnosuke Watanabe
+│  ├─ url: https://github.com/shinnn
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/spdx-license-ids
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/spdx-license-ids/README.md
+├─ spdx-ranges@2.1.1
+│  ├─ licenses: (MIT AND CC-BY-3.0)
+│  ├─ repository: https://github.com/kemitchell/spdx-ranges.js
+│  ├─ publisher: The Linux Foundation
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/spdx-ranges
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/spdx-ranges/LICENSE.md
+├─ spdx-satisfies@4.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kemitchell/spdx-satisfies.js
+│  ├─ publisher: Kyle E. Mitchell
+│  ├─ email: kyle@kemitchell.com
+│  ├─ url: https://kemitchell.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/spdx-satisfies
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/spdx-satisfies/LICENSE
+├─ speech-rule-engine@3.3.3
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/zorkow/speech-rule-engine
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/speech-rule-engine
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/speech-rule-engine/LICENSE
+├─ supports-color@5.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/supports-color
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/supports-color/license
+├─ supports-preserve-symlinks-flag@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/node-supports-preserve-symlinks-flag
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/supports-preserve-symlinks-flag
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/supports-preserve-symlinks-flag/LICENSE
+├─ tr46@0.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Sebmaster/tr46.js
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: npm@smayr.name
+│  └─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/tr46
+├─ treeify@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/notatestuser/treeify
+│  ├─ publisher: Luke Plaster
+│  ├─ email: notatestuser@gmail.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/treeify
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/treeify/LICENSE
+├─ tslib@2.3.1
+│  ├─ licenses: 0BSD
+│  ├─ repository: https://github.com/Microsoft/tslib
+│  ├─ publisher: Microsoft Corp.
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/tslib
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/tslib/LICENSE.txt
+├─ uc.micro@1.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/markdown-it/uc.micro
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/uc.micro
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/uc.micro/LICENSE.txt
+├─ util-extend@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/util-extend
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/util-extend
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/util-extend/LICENSE
+├─ valid-data-url@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/killmenot/valid-data-url
+│  ├─ publisher: Alexey Kucherenko
+│  ├─ url: https://github.com/killmenot
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/valid-data-url
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/valid-data-url/LICENSE
+├─ validate-npm-package-license@3.0.4
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/kemitchell/validate-npm-package-license.js
+│  ├─ publisher: Kyle E. Mitchell
+│  ├─ email: kyle@kemitchell.com
+│  ├─ url: https://kemitchell.com
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/validate-npm-package-license
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/validate-npm-package-license/LICENSE
+├─ web-resource-inliner@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jrit/web-resource-inliner
+│  ├─ publisher: Jarrett Widman
+│  ├─ url: https://github.com/jrit
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/web-resource-inliner
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/web-resource-inliner/README.md
+├─ webidl-conversions@3.0.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/jsdom/webidl-conversions
+│  ├─ publisher: Domenic Denicola
+│  ├─ email: d@domenic.me
+│  ├─ url: https://domenic.me/
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/webidl-conversions
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/webidl-conversions/LICENSE.md
+├─ whatwg-url@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jsdom/whatwg-url
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: github@smayr.name
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/whatwg-url
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/whatwg-url/LICENSE.txt
+├─ wicked-good-xpath@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/google/wicked-good-xpath
+│  ├─ publisher: Google Inc.
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/wicked-good-xpath
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/wicked-good-xpath/LICENSE
+├─ wrappy@1.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/wrappy
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/wrappy
+│  └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/wrappy/LICENSE
+└─ xmldom-sre@0.1.31
+   ├─ licenses: MIT*
+   ├─ repository: https://github.com/zorkow/xmldom
+   ├─ publisher: jindw
+   ├─ email: jindw@xidea.org
+   ├─ url: http://www.xidea.org
+   ├─ path: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/xmldom-sre
+   └─ licenseFile: /Users/masaya/ghq/github.com/tani/deno-pandoc/node_modules/xmldom-sre/LICENSE
+
