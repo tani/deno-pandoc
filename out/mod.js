@@ -1,4 +1,4 @@
-import { Buffer as bufferModule } from "https://deno.land/std@0.90.0/node/buffer.ts";
+import { Buffer as bufferModule } from "https://deno.land/std/node/buffer.ts";
   !globalThis.Buffer && Object.defineProperty(globalThis, "Buffer", {
     value: bufferModule,
     enumerable: false,
@@ -9,7 +9,7 @@ import { Buffer as bufferModule } from "https://deno.land/std@0.90.0/node/buffer
     writable: false,
     enumerable: false,
     configurable: true,
-  });import processModule from "https://deno.land/std@0.90.0/node/process.ts";
+  });import processModule from "https://deno.land/std/node/process.ts";
   !globalThis.process && Object.defineProperty(globalThis, "process", {
     value: processModule,
     enumerable: false,
